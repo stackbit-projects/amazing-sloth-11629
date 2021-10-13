@@ -25,7 +25,8 @@
                 "style": "primary",
                 "has_subnav": false
             }
-        ]
+        ],
+        "logo_img": "/images/logo.svg"
     },
     "footer": {
         "content": "&copy; Competitive Notes. All rights reserved.",
